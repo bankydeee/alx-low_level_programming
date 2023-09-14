@@ -1,8 +1,7 @@
 #include "main.h"
-#include <stdio.h>
 /**
- * main - natural numbers below 10
- * Return: void
+ * main - function to sum multiples of 3 or 5 in numbers below 1024
+ * Return: 0
  */
 int main(void)
 {
@@ -15,4 +14,5 @@ int main(void)
 			sum = sum + i;
 	}
 	printf("%d\n", sum);
+	return (0);
 }
