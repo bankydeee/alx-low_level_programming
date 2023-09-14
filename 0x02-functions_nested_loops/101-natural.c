@@ -1,11 +1,8 @@
 #include "main.h"
-
 /**
- * main - check the code.
- *
- * Return: Always 0.
+ * main - natural numbers below 10
+ * Return: void
  */
-
 int main(void)
 {
 	print_times_table(3);
