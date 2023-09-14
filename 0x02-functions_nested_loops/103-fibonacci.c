@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
   * main - the main printing funtion
   * less than 4000000.
   * Return: 0.
   */
-
 int main(void)
 {
 	int i = 0;
@@ -19,6 +17,6 @@ int main(void)
 		j = k - j;
 		++i;
 	}
-	printf("%ld", sum);
+	printf("%ld\n", sum);
 	return (0);
 }
