@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print-array - procedure title
+ * print_array - procedure title
  * @a: input 1
  * @n: input 2
  */
